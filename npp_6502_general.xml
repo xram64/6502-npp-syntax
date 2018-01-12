@@ -1,8 +1,8 @@
 <NotepadPlus>
-    <UserLang name="6502 Assembly" ext="" udlVersion="2.1">
+    <UserLang name="6502 Assembly (General)" ext="rs" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
-            <Prefix Keywords1="no" Keywords2="yes" Keywords3="yes" Keywords4="no" Keywords5="yes" Keywords6="no" Keywords7="no" Keywords8="no" />
+            <Prefix Keywords1="no" Keywords2="yes" Keywords3="yes" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
         </Settings>
         <KeywordLists>
             <Keywords name="Comments">00; 01 02 03 04</Keywords>
@@ -28,7 +28,7 @@
             <Keywords name="Keywords2">$</Keywords>
             <Keywords name="Keywords3">%</Keywords>
             <Keywords name="Keywords4">A&#x000D;&#x000A;X&#x000D;&#x000A;Y&#x000D;&#x000A;S&#x000D;&#x000A;P</Keywords>
-            <Keywords name="Keywords5">.list&#x000D;&#x000A;.nolist&#x000D;&#x000A;.mlist&#x000D;&#x000A;.nomlist&#x000D;&#x000A;.opt&#x000D;&#x000A;.equ&#x000D;&#x000A;.bank&#x000D;&#x000A;.org&#x000D;&#x000A;.db&#x000D;&#x000A;.dw&#x000D;&#x000A;.byte&#x000D;&#x000A;.word&#x000D;&#x000A;.ds&#x000D;&#x000A;.rsset&#x000D;&#x000A;.rs&#x000D;&#x000A;.macro&#x000D;&#x000A;.endm&#x000D;&#x000A;.proc&#x000D;&#x000A;.endp&#x000D;&#x000A;.procgroup&#x000D;&#x000A;.endprocgroup&#x000D;&#x000A;.incbin&#x000D;&#x000A;.include&#x000D;&#x000A;.incchr&#x000D;&#x000A;.defchr&#x000D;&#x000A;.zp&#x000D;&#x000A;.bss&#x000D;&#x000A;.code&#x000D;&#x000A;.data&#x000D;&#x000A;.if&#x000D;&#x000A;.ifdef&#x000D;&#x000A;.ifndef&#x000D;&#x000A;.else&#x000D;&#x000A;.endif&#x000D;&#x000A;.fail&#x000D;&#x000A;.inesprg&#x000D;&#x000A;.ineschr&#x000D;&#x000A;.inesmap&#x000D;&#x000A;.inesmir&#x000D;&#x000A;high(&#x000D;&#x000A;low(&#x000D;&#x000A;bank(&#x000D;&#x000A;page(&#x000D;&#x000A;sizeof(</Keywords>
+            <Keywords name="Keywords5"></Keywords>
             <Keywords name="Keywords6"></Keywords>
             <Keywords name="Keywords7">slo&#x000D;&#x000A;rla&#x000D;&#x000A;sre&#x000D;&#x000A;rra&#x000D;&#x000A;sax&#x000D;&#x000A;lax&#x000D;&#x000A;dcp&#x000D;&#x000A;isc&#x000D;&#x000A;anc&#x000D;&#x000A;alr&#x000D;&#x000A;arr&#x000D;&#x000A;xaa&#x000D;&#x000A;axs&#x000D;&#x000A;ahx&#x000D;&#x000A;shy&#x000D;&#x000A;shx&#x000D;&#x000A;tas&#x000D;&#x000A;las</Keywords>
             <Keywords name="Keywords8"></Keywords>
