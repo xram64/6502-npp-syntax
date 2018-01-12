@@ -8,12 +8,12 @@ There are two files included here:
 - **npp_6502_nesasm.xml**, which does the same thing, but also highlights assembler directives and functions for NESASM3
 
 ## Installation
-1.  Download **npp_6502_general.xml** or **npp_6502_nesasm.xml**.
-1.  In Notepad++, go to *Language* -> *Define your language...*
-1.  Click *Import...* and select the file.
-1.  Restart Notepad++.
-1.  Go to *Language* and select *6502 Assembly* to load the syntax highlighting.
-1.  If you use a theme, go to *Settings* -> *Style Configurator* and check *Enable global background color*.
+1. Download **npp_6502_general.xml** or **npp_6502_nesasm.xml**.
+1. In Notepad++, go to *Language* -> *Define your language...*
+1. Click *Import...* and select the file.
+1. Restart Notepad++.
+1. Go to *Language* and select *6502 Assembly* to load the syntax highlighting.
+1. If you use a theme, go to *Settings* -> *Style Configurator* and check *Enable global background color*.
 
 ## Features
 - Highlights opcodes, comments, numbers, and strings
@@ -22,6 +22,7 @@ There are two files included here:
 - Special highlighting for registers (A, X, Y, S, P)
 - Opcodes can be entered in upper or lower case
 - Illegal opcodes are recognized and differentiated with a darker color
+- Works well on most themes with darker backgrounds
 
 ## Notes
 I've left off the automatic extension checking for `.asm` files because it would overlap with other types of assembly files, but if you'd like to make this highlighting the default for all `.asm` files, just add **"asm"** to the *Ext.* box in *Language* -> *Define your language...*
